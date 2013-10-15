@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A Very High Performance Objective-C JSON Library (BrandyMint fork).'
   s.homepage = 'https://github.com/BrandyMint/JSONKit'
   s.author   = 'Alexander Mescheryakov'
-  s.source   = { :git => 'https://github.com/BrandyMint/JSONKit.git' }
+  s.source   = { :git => 'git@github.com:BrandyMint/JSONKit.git' }
 
   s.source_files   = 'JSONKit.[mh]'
 end
